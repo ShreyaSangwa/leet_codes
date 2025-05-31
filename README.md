@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0136-single-number) |
+| [0945-snakes-and-ladders](https://github.com/ShreyaSangwa/leet_codes/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/ShreyaSangwa/leet_codes/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -100,6 +101,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/ShreyaSangwa/leet_codes/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Matrix
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/ShreyaSangwa/leet_codes/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
