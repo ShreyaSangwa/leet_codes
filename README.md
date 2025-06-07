@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ShreyaSangwa/leet_codes/tree/master/0006-zigzag-conversion) |
+| [0151-reverse-words-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/ShreyaSangwa/leet_codes/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/ShreyaSangwa/leet_codes/tree/master/1894-merge-strings-alternately) |
 ## Enumeration
 |  |
