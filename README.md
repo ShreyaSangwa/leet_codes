@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0136-single-number) |
 | [0945-snakes-and-ladders](https://github.com/ShreyaSangwa/leet_codes/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/ShreyaSangwa/leet_codes/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/ShreyaSangwa/leet_codes/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/0007-reverse-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ShreyaSangwa/leet_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/ShreyaSangwa/leet_codes/tree/master/3321-type-of-triangle) |
 ## Depth-First Search
