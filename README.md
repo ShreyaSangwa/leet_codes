@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShreyaSangwa/leet_codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/ShreyaSangwa/leet_codes/tree/master/0724-find-pivot-index) |
 | [0945-snakes-and-ladders](https://github.com/ShreyaSangwa/leet_codes/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/ShreyaSangwa/leet_codes/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShreyaSangwa/leet_codes/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ShreyaSangwa/leet_codes/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ShreyaSangwa/leet_codes/tree/master/1833-find-the-highest-altitude) |
 ## Trie
 |  |
