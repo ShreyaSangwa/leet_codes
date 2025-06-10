@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ShreyaSangwa/leet_codes/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/ShreyaSangwa/leet_codes/tree/master/0945-snakes-and-ladders) |
+| [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/ShreyaSangwa/leet_codes/tree/master/2048-build-array-from-permutation) |
+| [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
