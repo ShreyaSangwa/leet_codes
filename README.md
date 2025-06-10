@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ShreyaSangwa/leet_codes/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ShreyaSangwa/leet_codes/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/ShreyaSangwa/leet_codes/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0392-is-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ShreyaSangwa/leet_codes/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/ShreyaSangwa/leet_codes/tree/master/1894-merge-strings-alternately) |
 ## Enumeration
