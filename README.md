@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ShreyaSangwa/leet_codes/tree/master/0724-find-pivot-index) |
 | [0945-snakes-and-ladders](https://github.com/ShreyaSangwa/leet_codes/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/ShreyaSangwa/leet_codes/tree/master/1293-three-consecutive-odds) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShreyaSangwa/leet_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/ShreyaSangwa/leet_codes/tree/master/1833-find-the-highest-altitude) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
