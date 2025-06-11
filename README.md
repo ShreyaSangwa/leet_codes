@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ShreyaSangwa/leet_codes/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ShreyaSangwa/leet_codes/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ShreyaSangwa/leet_codes/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/ShreyaSangwa/leet_codes/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/2470-removing-stars-from-a-string) |
@@ -195,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
