@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ShreyaSangwa/leet_codes/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ShreyaSangwa/leet_codes/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/ShreyaSangwa/leet_codes/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ShreyaSangwa/leet_codes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShreyaSangwa/leet_codes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShreyaSangwa/leet_codes/tree/master/0032-longest-valid-parentheses) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ShreyaSangwa/leet_codes/tree/master/0012-integer-to-roman) |
 | [1319-unique-number-of-occurrences](https://github.com/ShreyaSangwa/leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/ShreyaSangwa/leet_codes/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ShreyaSangwa/leet_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
