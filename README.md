@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/2470-removing-stars-from-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ShreyaSangwa/leet_codes/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Graph
 |  |
 | ------- |
