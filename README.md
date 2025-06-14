@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ShreyaSangwa/leet_codes/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShreyaSangwa/leet_codes/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ShreyaSangwa/leet_codes/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0392-is-subsequence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0136-single-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ShreyaSangwa/leet_codes/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/ShreyaSangwa/leet_codes/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ShreyaSangwa/leet_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/ShreyaSangwa/leet_codes/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/ShreyaSangwa/leet_codes/tree/master/2048-build-array-from-permutation) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
