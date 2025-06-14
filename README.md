@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ShreyaSangwa/leet_codes/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ShreyaSangwa/leet_codes/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ShreyaSangwa/leet_codes/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ShreyaSangwa/leet_codes/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/ShreyaSangwa/leet_codes/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ShreyaSangwa/leet_codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShreyaSangwa/leet_codes/tree/master/0069-sqrtx) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShreyaSangwa/leet_codes/tree/master/0048-rotate-image) |
 | [0945-snakes-and-ladders](https://github.com/ShreyaSangwa/leet_codes/tree/master/0945-snakes-and-ladders) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
