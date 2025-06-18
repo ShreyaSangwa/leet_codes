@@ -23,8 +23,7 @@ class Solution:
         while temp:
             temp=temp.next
             length+=1
-        while length<k:
-            k=k-length
+        k=k%length
         for i in range(k):
             head=rotate(head)
         return head
