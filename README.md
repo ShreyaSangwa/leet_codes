@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ShreyaSangwa/leet_codes/tree/master/3321-type-of-triangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShreyaSangwa/leet_codes/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/ShreyaSangwa/leet_codes/tree/master/2048-build-array-from-permutation) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/2470-removing-stars-from-a-string) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -329,8 +333,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0023-merge-k-sorted-lists) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
