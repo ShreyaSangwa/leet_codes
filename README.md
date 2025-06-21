@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ShreyaSangwa/leet_codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShreyaSangwa/leet_codes/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
