@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0191-number-of-1-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaSangwa/leet_codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
