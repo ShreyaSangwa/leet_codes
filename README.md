@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ShreyaSangwa/leet_codes/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSangwa/leet_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0392-is-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Math
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShreyaSangwa/leet_codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShreyaSangwa/leet_codes/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/ShreyaSangwa/leet_codes/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
