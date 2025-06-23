@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ShreyaSangwa/leet_codes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ShreyaSangwa/leet_codes/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/ShreyaSangwa/leet_codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0392-is-subsequence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/ShreyaSangwa/leet_codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShreyaSangwa/leet_codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0151-reverse-words-in-a-string) |
