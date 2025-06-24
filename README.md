@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ShreyaSangwa/leet_codes/tree/master/0231-power-of-two) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/ShreyaSangwa/leet_codes/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/ShreyaSangwa/leet_codes/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ShreyaSangwa/leet_codes/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
