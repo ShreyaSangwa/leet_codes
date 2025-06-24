@@ -18,5 +18,4 @@ class Solution:
         myKeys = list(td.keys())
         myKeys.sort()   
         td = {i: td[i] for i in myKeys}
-        print(sd,td)
         return sd==td
