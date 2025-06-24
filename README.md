@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyaSangwa/leet_codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShreyaSangwa/leet_codes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ShreyaSangwa/leet_codes/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/ShreyaSangwa/leet_codes/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/2470-removing-stars-from-a-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShreyaSangwa/leet_codes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ShreyaSangwa/leet_codes/tree/master/0225-implement-stack-using-queues) |
 ## Recursion
 |  |
 | ------- |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShreyaSangwa/leet_codes/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
