@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSangwa/leet_codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ShreyaSangwa/leet_codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/0643-maximum-average-subarray-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ShreyaSangwa/leet_codes/tree/master/3321-type-of-triangle) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/ShreyaSangwa/leet_codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/ShreyaSangwa/leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
