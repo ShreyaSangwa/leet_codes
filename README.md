@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShreyaSangwa/leet_codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ShreyaSangwa/leet_codes/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ShreyaSangwa/leet_codes/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShreyaSangwa/leet_codes/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ShreyaSangwa/leet_codes/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ShreyaSangwa/leet_codes/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/ShreyaSangwa/leet_codes/tree/master/2048-build-array-from-permutation) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShreyaSangwa/leet_codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyaSangwa/leet_codes/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
