@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShreyaSangwa/leet_codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ShreyaSangwa/leet_codes/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ShreyaSangwa/leet_codes/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShreyaSangwa/leet_codes/tree/master/0735-asteroid-collision) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShreyaSangwa/leet_codes/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ShreyaSangwa/leet_codes/tree/master/3321-type-of-triangle) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShreyaSangwa/leet_codes/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ShreyaSangwa/leet_codes/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShreyaSangwa/leet_codes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ShreyaSangwa/leet_codes/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/ShreyaSangwa/leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ShreyaSangwa/leet_codes/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/ShreyaSangwa/leet_codes/tree/master/1894-merge-strings-alternately) |
