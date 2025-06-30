@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ShreyaSangwa/leet_codes/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShreyaSangwa/leet_codes/tree/master/0374-guess-number-higher-or-lower) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShreyaSangwa/leet_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
 |  |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ShreyaSangwa/leet_codes/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShreyaSangwa/leet_codes/tree/master/0374-guess-number-higher-or-lower) |
 ## Brainteaser
 |  |
 | ------- |
