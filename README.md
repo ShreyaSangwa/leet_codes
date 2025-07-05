@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ShreyaSangwa/leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShreyaSangwa/leet_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShreyaSangwa/leet_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-find-the-highest-altitude](https://github.com/ShreyaSangwa/leet_codes/tree/master/1833-find-the-highest-altitude) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/ShreyaSangwa/leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShreyaSangwa/leet_codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
