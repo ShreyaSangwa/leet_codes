@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyaSangwa/leet_codes/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShreyaSangwa/leet_codes/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ShreyaSangwa/leet_codes/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ShreyaSangwa/leet_codes/tree/master/0075-sort-colors) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/ShreyaSangwa/leet_codes/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreyaSangwa/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/ShreyaSangwa/leet_codes/tree/master/0047-permutations-ii) |
 ## String Matching
 |  |
 | ------- |
