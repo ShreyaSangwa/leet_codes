@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShreyaSangwa/leet_codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShreyaSangwa/leet_codes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ShreyaSangwa/leet_codes/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSangwa/leet_codes/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSangwa/leet_codes/tree/master/0560-subarray-sum-equals-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShreyaSangwa/leet_codes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShreyaSangwa/leet_codes/tree/master/1464-reduce-array-size-to-the-half) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaSangwa/leet_codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ShreyaSangwa/leet_codes/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShreyaSangwa/leet_codes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ShreyaSangwa/leet_codes/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSangwa/leet_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShreyaSangwa/leet_codes/tree/master/1464-reduce-array-size-to-the-half) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShreyaSangwa/leet_codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -523,4 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSangwa/leet_codes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
