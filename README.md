@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/ShreyaSangwa/leet_codes/tree/master/0482-license-key-formatting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1894-merge-strings-alternately](https://github.com/ShreyaSangwa/leet_codes/tree/master/1894-merge-strings-alternately) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShreyaSangwa/leet_codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/2470-removing-stars-from-a-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShreyaSangwa/leet_codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShreyaSangwa/leet_codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -236,11 +238,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShreyaSangwa/leet_codes/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/0643-maximum-average-subarray-i) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Graph
