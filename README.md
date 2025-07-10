@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ShreyaSangwa/leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1464-reduce-array-size-to-the-half](https://github.com/ShreyaSangwa/leet_codes/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShreyaSangwa/leet_codes/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShreyaSangwa/leet_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/ShreyaSangwa/leet_codes/tree/master/1464-reduce-array-size-to-the-half) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ShreyaSangwa/leet_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShreyaSangwa/leet_codes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/ShreyaSangwa/leet_codes/tree/master/1464-reduce-array-size-to-the-half) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShreyaSangwa/leet_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShreyaSangwa/leet_codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/ShreyaSangwa/leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1464-reduce-array-size-to-the-half](https://github.com/ShreyaSangwa/leet_codes/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/ShreyaSangwa/leet_codes/tree/master/1464-reduce-array-size-to-the-half) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShreyaSangwa/leet_codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
