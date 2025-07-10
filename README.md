@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ShreyaSangwa/leet_codes/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/ShreyaSangwa/leet_codes/tree/master/0482-license-key-formatting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/ShreyaSangwa/leet_codes/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyaSangwa/leet_codes/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ShreyaSangwa/leet_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShreyaSangwa/leet_codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShreyaSangwa/leet_codes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
+| [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShreyaSangwa/leet_codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShreyaSangwa/leet_codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSangwa/leet_codes/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/ShreyaSangwa/leet_codes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShreyaSangwa/leet_codes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ShreyaSangwa/leet_codes/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyaSangwa/leet_codes/tree/master/0023-merge-k-sorted-lists) |
+| [0778-reorganize-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/0778-reorganize-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShreyaSangwa/leet_codes/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
