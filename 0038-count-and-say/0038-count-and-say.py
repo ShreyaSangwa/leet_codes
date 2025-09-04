@@ -4,16 +4,12 @@ class Solution:
         for i in range(n-1):
             c=""
             count=1
-            a=d[0]
-            j=1
-            while j<len(d):
-                if a==d[j]:
+            for j in range(1,len(d)):
+                if d[j-1]==d[j]:
                     count+=1
                 else:
                     c+=str(count)+d[j-1]
                     count=1
-                    a=d[j]
-                j+=1
-            c+=str(count)+d[j-1]
+            c+=str(count)+d[-1]
             d=c
         return d
