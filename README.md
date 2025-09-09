@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ShreyaSangwa/leet_codes/tree/master/0392-is-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ShreyaSangwa/leet_codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShreyaSangwa/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShreyaSangwa/leet_codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Greedy
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ShreyaSangwa/leet_codes/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/ShreyaSangwa/leet_codes/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShreyaSangwa/leet_codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShreyaSangwa/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShreyaSangwa/leet_codes/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ShreyaSangwa/leet_codes/tree/master/2470-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaSangwa/leet_codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShreyaSangwa/leet_codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyaSangwa/leet_codes/tree/master/0232-implement-queue-using-stacks) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ShreyaSangwa/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Number Theory
 |  |
 | ------- |
