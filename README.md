@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShreyaSangwa/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShreyaSangwa/leet_codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShreyaSangwa/leet_codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/ShreyaSangwa/leet_codes/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ShreyaSangwa/leet_codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ShreyaSangwa/leet_codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ShreyaSangwa/leet_codes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ShreyaSangwa/leet_codes/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ShreyaSangwa/leet_codes/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/ShreyaSangwa/leet_codes/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/ShreyaSangwa/leet_codes/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShreyaSangwa/leet_codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShreyaSangwa/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
